@@ -1,5 +1,5 @@
 # A Learnig Management Project (Backend).
-Build this backend for learnign purpose.
+Build this backend for learnig purpose.
 
 ## Tech-used 
 * Node.js
