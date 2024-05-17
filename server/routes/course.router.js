@@ -6,7 +6,7 @@ const router = Router();
 
 
 router
-  .route('/')
+  .route('/') // home page url of course
   .get(getAllCourses)
   .post(
     isLoggedIn,
