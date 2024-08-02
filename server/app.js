@@ -33,7 +33,7 @@ app.use(cors({
 }))
 
 app.use('/ping',(req,res)=>{
-    res.send('/Pong')
+    res.send('/Pong-----')
 })
 
 // 3 routew define of 3 model 
